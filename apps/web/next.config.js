@@ -3,9 +3,6 @@ const nextConfig = {
   images: {
     domains: ['localhost'],
   },
-  env: {
-    CUSTOM_KEY: "vajrakaaya-custom-key",
-  },
   output: 'standalone',
 }
 

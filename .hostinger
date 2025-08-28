@@ -1,0 +1,11 @@
+{
+  "type": "nodejs",
+  "version": "18",
+  "build": {
+    "command": "npm run build",
+    "output": "apps/web/.next"
+  },
+  "start": {
+    "command": "npm start"
+  }
+}
